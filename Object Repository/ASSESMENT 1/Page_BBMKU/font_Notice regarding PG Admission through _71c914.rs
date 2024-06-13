@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Notice regarding PG Admission through _71c914</name>
+   <tag></tag>
+   <elementGuidId>0cb87240-6d7c-4ff2-b2b3-01401d55174d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab3 > ul > li:nth-of-type(12) > a > div.thumbdesc > font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab3']/ul/li[12]/a/div[2]/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Notice regarding PG Admission through special drive Session 2023-25 29 Dec 2023&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>d3953cc7-df9d-4cea-9d27-28bf989a73fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>my</name>
+      <type>Main</type>
+      <value>my</value>
+      <webElementGuid>64796450-17b2-4c2a-8350-1e4ee1076d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Notice regarding PG Admission through special drive Session 2023-25</value>
+      <webElementGuid>522afd34-e54c-4c21-a034-b699f0b198ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab3&quot;)/ul[1]/li[12]/a[1]/div[@class=&quot;thumbdesc&quot;]/font[1]</value>
+      <webElementGuid>505191c4-9340-44f0-91d5-4252bf811f42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab3']/ul/li[12]/a/div[2]/font</value>
+      <webElementGuid>be73859c-a82c-4b46-89cc-703e10a499ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission Notice-B.Pharma Course in H.G.E.A. College of Pharmacy Session 2023-27.'])[1]/following::font[2]</value>
+      <webElementGuid>ba382252-ae7d-4312-bf20-f3e5e3e1f023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission Fee Payment Extend Notice for PG Admission Session 2023-25.'])[1]/following::font[4]</value>
+      <webElementGuid>d342abfc-f6cb-43f7-920f-bec59ee64e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notice regarding payment of admission through Chancellor portal for UG...'])[1]/preceding::font[2]</value>
+      <webElementGuid>c0c58cc8-c673-4605-9c0a-69d30d733d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merit List of Certificate, Diploma and Advanced Diploma in Foreign...'])[1]/preceding::font[4]</value>
+      <webElementGuid>54eac5a5-aeb9-4169-8100-d4973890bc3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Notice regarding PG Admission through special drive Session 2023-25']/parent::*</value>
+      <webElementGuid>20d435f7-0bd8-41d6-8f6b-06a1292da163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[12]/a/div[2]/font</value>
+      <webElementGuid>7b9d7198-c6e1-403d-b1cd-725533f1a734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Notice regarding PG Admission through special drive Session 2023-25' or . = 'Notice regarding PG Admission through special drive Session 2023-25')]</value>
+      <webElementGuid>3c2e5b93-d305-436f-9f11-85c6c3b39370</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

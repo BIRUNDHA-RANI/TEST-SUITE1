@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Menu</name>
+   <tag></tag>
+   <elementGuidId>b579766c-ce57-44c8-8821-4b043ded0749</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ubermenu-responsive-toggle.ubermenu-responsive-toggle-main.ubermenu-skin-none.ubermenu-loc-.ubermenu-responsive-toggle-content-align-left.ubermenu-responsive-toggle-align-full.ubermenu-responsive-toggle-open</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Binod Bihari Mahto Koyalanchal University, Dhanbad'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Menu&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>24c6f0d9-5b78-433a-bff0-09942ef675d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-none ubermenu-loc- ubermenu-responsive-toggle-content-align-left ubermenu-responsive-toggle-align-full  ubermenu-responsive-toggle-open</value>
+      <webElementGuid>2f6f3815-00f4-4e1a-8775-512f1bce02db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ubermenu-target</name>
+      <type>Main</type>
+      <value>ubermenu-main-2</value>
+      <webElementGuid>97614b5e-1420-49cd-8779-ace1573bedb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menu</value>
+      <webElementGuid>663c12bb-a285-4403-a247-10903be07924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-827 single-author&quot;]/section[@class=&quot;navbar-custom navbar-inner navi&quot;]/a[@class=&quot;ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-none ubermenu-loc- ubermenu-responsive-toggle-content-align-left ubermenu-responsive-toggle-align-full  ubermenu-responsive-toggle-open&quot;]</value>
+      <webElementGuid>fcf58d61-1b9c-4fb7-9938-4dc44b630c11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Binod Bihari Mahto Koyalanchal University, Dhanbad'])[1]/following::a[1]</value>
+      <webElementGuid>eda56e2e-e08e-45ce-84b3-28faa92854fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='बिनोद बिहारी महतो कोयलांचल विश्वविद्यालय, धनबाद'])[1]/following::a[1]</value>
+      <webElementGuid>7c4bec89-d86a-444e-9102-1c0866374fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[2]</value>
+      <webElementGuid>d500b11d-fab7-4204-8551-3b9abaa15ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/a</value>
+      <webElementGuid>bb649619-19c8-4919-bcf6-d6a019af650a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Menu' or . = 'Menu')]</value>
+      <webElementGuid>fd189ac9-8b69-4b81-be6b-a033ac84936d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

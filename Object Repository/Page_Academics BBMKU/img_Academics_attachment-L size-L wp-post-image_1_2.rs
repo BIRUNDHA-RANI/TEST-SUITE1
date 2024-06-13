@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Academics_attachment-L size-L wp-post-image_1_2</name>
+   <tag></tag>
+   <elementGuidId>a07bc51c-105c-4e18-9b1b-b27751e5552c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='fcbh f']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;fcbh f&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>39d883b1-0c38-42dc-a5a7-6388338e42f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>193</value>
+      <webElementGuid>c5d003c1-3901-43ab-882d-045905cdb175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>186</value>
+      <webElementGuid>42c2d0d8-3526-41ae-ba33-2aba1922c4a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://bbmku.ac.in/wp-content/uploads/2018/09/images.jpg</value>
+      <webElementGuid>72baae0c-5790-4655-a175-a7fa0861b60e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-L size-L wp-post-image</value>
+      <webElementGuid>45f5abf5-7c66-43be-b7d8-12cd8d3b23fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>fcbh f</value>
+      <webElementGuid>dd736152-8728-4eb4-b1cd-ae1b299809fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-68 page-parent single-author&quot;]/footer[1]/div[@class=&quot;footer-list&quot;]/div[@class=&quot;footer-item&quot;]/img[@class=&quot;attachment-L size-L wp-post-image&quot;]</value>
+      <webElementGuid>54d211de-05f7-4ff0-8aa7-0a8a85344679</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='fcbh f']</value>
+      <webElementGuid>457a8148-63d7-4dfa-b515-06e59786654a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/img</value>
+      <webElementGuid>7711dd11-04b2-491b-b4ed-767353a987ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://bbmku.ac.in/wp-content/uploads/2018/09/images.jpg' and @alt = 'fcbh f']</value>
+      <webElementGuid>101fc708-5a95-40ba-945f-2e2332f84e32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

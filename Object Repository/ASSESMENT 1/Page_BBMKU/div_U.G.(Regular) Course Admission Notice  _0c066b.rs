@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_U.G.(Regular) Course Admission Notice  _0c066b</name>
+   <tag></tag>
+   <elementGuidId>26d921fc-9e91-45b3-a3fd-744553ecf9c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab3 > ul > li:nth-of-type(5) > a > div.thumbdesc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab3']/ul/li[5]/a/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;U.G.(Regular) Course Admission Notice – 2024 3 May 2024&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>73b9c79f-93fb-499e-b8a4-1e094e9ce55b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thumbdesc</value>
+      <webElementGuid>942bc5d2-39a5-4849-bb10-b3dda34c67b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>U.G.(Regular) Course Admission Notice – 2024 3 May  2024 </value>
+      <webElementGuid>ca60d315-b970-4799-9093-634a93f312d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab3&quot;)/ul[1]/li[5]/a[1]/div[@class=&quot;thumbdesc&quot;]</value>
+      <webElementGuid>f82bc166-15e6-492d-8aff-f1635c82a044</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab3']/ul/li[5]/a/div[2]</value>
+      <webElementGuid>76865dba-0048-4dc4-8a74-501f7200fd08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='U.G Fees Structure (for Regular Course in Constituent Colleges) –...'])[1]/following::div[2]</value>
+      <webElementGuid>d0825be4-880a-4e83-9ee2-ab10c9304ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission Notice for UG(Vocational) Course Session 2024-2027.'])[1]/following::div[4]</value>
+      <webElementGuid>b9b62901-13eb-4cc1-bd9b-b6d4e06973aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P.G. 2nd Year(University PG Departments) Admission Notice.'])[1]/preceding::div[2]</value>
+      <webElementGuid>a52fd465-16da-40b0-a6ed-8d8eb75e1ae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[5]/a/div[2]</value>
+      <webElementGuid>a582d2b4-e3bc-4b66-b6e9-e62b4ea160e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'U.G.(Regular) Course Admission Notice – 2024 3 May  2024 ' or . = 'U.G.(Regular) Course Admission Notice – 2024 3 May  2024 ')]</value>
+      <webElementGuid>0a845409-b8dd-47c1-b293-555cd0c710ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

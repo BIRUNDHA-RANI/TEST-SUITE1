@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Merit List of B.Pharm-H.G.E.A. College_f1b57d</name>
+   <tag></tag>
+   <elementGuidId>25d2e97a-4395-426a-9f8c-830f595e3df8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab3 > ul > li:nth-of-type(15) > a > div.thumbdesc > font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab3']/ul/li[15]/a/div[2]/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Merit List of B.Pharm-H.G.E.A. College of Pharmacy, Chas, Bokaro. 24 Dec 2023&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>69fbe768-c5b5-42c3-99f8-523dfad5cd15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>my</name>
+      <type>Main</type>
+      <value>my</value>
+      <webElementGuid>9815cfd0-d463-47cb-92aa-fde25ad8673e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Merit List of B.Pharm-H.G.E.A. College of Pharmacy, Chas, Bokaro.</value>
+      <webElementGuid>dc9bc2c4-eea2-430b-98b8-2d790f2b819b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab3&quot;)/ul[1]/li[15]/a[1]/div[@class=&quot;thumbdesc&quot;]/font[1]</value>
+      <webElementGuid>8c316607-9e82-482b-975b-1d121a360cc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab3']/ul/li[15]/a/div[2]/font</value>
+      <webElementGuid>08177363-b2c2-4921-91fa-540fbba072e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merit List of Certificate, Diploma and Advanced Diploma in Foreign...'])[1]/following::font[2]</value>
+      <webElementGuid>675b7a73-47b5-4dc3-bf9a-ed62b61a7332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notice regarding payment of admission through Chancellor portal for UG...'])[1]/following::font[4]</value>
+      <webElementGuid>690c2cbf-c6fa-43ae-b6c2-17ee9c6d52a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG ADMISSION NOTICE THROUGH SPECIAL DRIVE APPLICATION 2023.'])[1]/preceding::font[2]</value>
+      <webElementGuid>3c5e2534-1f89-4258-8234-bffbaa7e1102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Induction Meet of P.G Sem 1 Students 2023-25.'])[1]/preceding::font[4]</value>
+      <webElementGuid>0220fd4b-32e1-47b4-b4a5-67ed5a97da3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Merit List of B.Pharm-H.G.E.A. College of Pharmacy, Chas, Bokaro.']/parent::*</value>
+      <webElementGuid>980938e9-5b77-492a-9f5a-9eefb0abb7ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[15]/a/div[2]/font</value>
+      <webElementGuid>3a3149cf-574a-4fd7-bf39-cb3fa6bd690d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Merit List of B.Pharm-H.G.E.A. College of Pharmacy, Chas, Bokaro.' or . = 'Merit List of B.Pharm-H.G.E.A. College of Pharmacy, Chas, Bokaro.')]</value>
+      <webElementGuid>c1cb6b80-cff0-4bc1-a12c-713b1ad3d57a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Admission Notice</name>
+   <tag></tag>
+   <elementGuidId>336c0bd1-04ec-4c42-9d2e-097687b14944</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a.inactive > font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='tabs']/li[3]/a/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Admission Notice&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>5c706455-b847-40e0-a909-a91ff7249a37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>my</name>
+      <type>Main</type>
+      <value>my</value>
+      <webElementGuid>a8d9dc85-705f-4d66-a08a-d5005d303fa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admission Notice</value>
+      <webElementGuid>4724d8b9-67a1-475b-8c69-ec860df6c97d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs&quot;)/li[3]/a[@class=&quot;inactive&quot;]/font[1]</value>
+      <webElementGuid>6f4b7215-eee4-4e21-b44b-f3000e7ff512</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='tabs']/li[3]/a/font</value>
+      <webElementGuid>494a76d9-6dfe-4493-9615-ec3ee3ca4b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Examination Notice'])[1]/following::font[1]</value>
+      <webElementGuid>e005c288-647b-430a-a07d-39c207f9afa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Notice'])[1]/following::font[2]</value>
+      <webElementGuid>618e966b-3d90-442c-b6a2-7b6ba0d663e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tender &amp; Advertisement'])[1]/preceding::font[1]</value>
+      <webElementGuid>7ac49176-6b05-4138-874a-2696c67edae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regarding document verification and interview for the appointment of need...'])[1]/preceding::font[2]</value>
+      <webElementGuid>26341e37-4d72-4fe8-a492-bc1d1d000598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admission Notice']/parent::*</value>
+      <webElementGuid>d167296b-988f-4472-8b87-7205694bfa93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/font</value>
+      <webElementGuid>7b550d09-e8d1-420f-987e-5c848d682914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Admission Notice' or . = 'Admission Notice')]</value>
+      <webElementGuid>6f0a584d-face-4b5f-8ee5-0e833f4168c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

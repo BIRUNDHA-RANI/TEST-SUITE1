@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Gallery_attachment-L size-L wp-post-image_1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>c407a3e3-18b9-4753-b07d-2dacfdb7d7e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://bbmku.ac.in/wp-content/uploads/2018/09/News-1-4-1170x828.jpg')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(9) > .attachment-L</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>397698fd-4366-4087-83cd-d688c5259277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1170</value>
+      <webElementGuid>b9302cb3-82ab-4c33-90de-fadf455122b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>828</value>
+      <webElementGuid>2ab2cf6e-6480-43d8-b578-da2f2ad9a5d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://bbmku.ac.in/wp-content/uploads/2018/09/News-1-4-1170x828.jpg</value>
+      <webElementGuid>c7747fc0-7376-4361-b018-f8fe526c9234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-L size-L wp-post-image</value>
+      <webElementGuid>d9cc0ed4-0125-4f10-86cc-5c61561ae488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://bbmku.ac.in/wp-content/uploads/2018/09/News-1-4-1170x828.jpg 1170w, https://bbmku.ac.in/wp-content/uploads/2018/09/News-1-4-1170x828-300x212.jpg 300w, https://bbmku.ac.in/wp-content/uploads/2018/09/News-1-4-1170x828-768x544.jpg 768w, https://bbmku.ac.in/wp-content/uploads/2018/09/News-1-4-1170x828-1024x725.jpg 1024w</value>
+      <webElementGuid>b141547a-bdc3-4e45-b51a-f3c47d39cdff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 1170px) 100vw, 1170px</value>
+      <webElementGuid>1a19fb7f-7879-47ce-8854-b92cb72bc412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-353 single-author&quot;]/footer[1]/div[@class=&quot;footer-list&quot;]/div[@class=&quot;footer-item&quot;]/img[@class=&quot;attachment-L size-L wp-post-image&quot;]</value>
+      <webElementGuid>5ee18b90-f296-40ba-9174-da7ed2d67500</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://bbmku.ac.in/wp-content/uploads/2018/09/News-1-4-1170x828.jpg')]</value>
+      <webElementGuid>8f7fe4e8-c501-466f-85c3-99700153ecd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/img</value>
+      <webElementGuid>0b219037-5432-465b-af10-d5ed05c4b11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://bbmku.ac.in/wp-content/uploads/2018/09/News-1-4-1170x828.jpg']</value>
+      <webElementGuid>a79addc7-ac9e-4e9b-b476-6c8562f9d9e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

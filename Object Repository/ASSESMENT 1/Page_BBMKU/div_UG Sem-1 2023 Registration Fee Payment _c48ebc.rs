@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UG Sem-1 2023 Registration Fee Payment _c48ebc</name>
+   <tag></tag>
+   <elementGuidId>83926845-34ac-496e-b6bb-d2e03330ff3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab3 > ul > li:nth-of-type(8) > a > div.thumbdesc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab3']/ul/li[8]/a/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;UG Sem-1 2023 Registration Fee Payment Notice through Chancellor Portal. 23 Feb 2024&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c48d40c-70dc-42c1-95ea-52958d65c83c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thumbdesc</value>
+      <webElementGuid>f955655c-3b6a-4622-9247-f71bd052a978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UG Sem-1 2023 Registration Fee Payment Notice through Chancellor Portal. 23 Feb  2024 </value>
+      <webElementGuid>049a825b-0a92-4837-b41a-abbe0b35dcc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab3&quot;)/ul[1]/li[8]/a[1]/div[@class=&quot;thumbdesc&quot;]</value>
+      <webElementGuid>52c71181-c4f6-4f1f-9b31-0f2543b7e971</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab3']/ul/li[8]/a/div[2]</value>
+      <webElementGuid>b07c9c61-68c9-406a-ae0e-b88f39f49eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P.G. 2nd Year(University PG Departments) Admission Notice.'])[1]/following::div[4]</value>
+      <webElementGuid>02a2fa04-24dc-4f65-b13d-2309cd4c99b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='U.G.(Regular) Course Admission Notice – 2024'])[1]/following::div[6]</value>
+      <webElementGuid>7def91cb-644b-45f4-9c77-efc4e2595599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG 2nd Year Admission Notice Session 2022-24 through SBI Collect.'])[1]/preceding::div[2]</value>
+      <webElementGuid>84ba2319-020d-4fc5-9fa5-ebd7ce08f431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[8]/a/div[2]</value>
+      <webElementGuid>164e2ac6-acd0-4871-a235-0bc147e6b2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'UG Sem-1 2023 Registration Fee Payment Notice through Chancellor Portal. 23 Feb  2024 ' or . = 'UG Sem-1 2023 Registration Fee Payment Notice through Chancellor Portal. 23 Feb  2024 ')]</value>
+      <webElementGuid>b0e1296c-58b9-42f8-858d-7b5cc5f1caac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

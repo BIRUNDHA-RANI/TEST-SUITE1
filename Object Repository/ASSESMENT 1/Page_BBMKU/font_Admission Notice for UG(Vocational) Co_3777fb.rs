@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Admission Notice for UG(Vocational) Co_3777fb</name>
+   <tag></tag>
+   <elementGuidId>190b3325-f790-4fed-a4e4-ffde6d254996</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab3 > ul > li:nth-of-type(3) > a > div.thumbdesc > font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab3']/ul/li[3]/a/div[2]/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Admission Notice for UG(Vocational) Course Session 2024-2027. 16 May 2024&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>545216da-abfb-4071-89dc-b9cbb7341274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>my</name>
+      <type>Main</type>
+      <value>my</value>
+      <webElementGuid>2f3c2a7f-0b91-4646-b907-7582396cbc61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admission Notice for UG(Vocational) Course Session 2024-2027.</value>
+      <webElementGuid>f5b041d5-c352-4920-ac6c-0bdab6edf8d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab3&quot;)/ul[1]/li[3]/a[1]/div[@class=&quot;thumbdesc&quot;]/font[1]</value>
+      <webElementGuid>34d91077-e899-4cb6-bdf2-a85e93fd9206</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab3']/ul/li[3]/a/div[2]/font</value>
+      <webElementGuid>06d3712a-cda0-43fe-91ed-d03156cb251c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rescheduled Dates for UG Admission (Regular and Vocational Courses) 2024.'])[1]/following::font[2]</value>
+      <webElementGuid>067934ce-20c0-4538-8ad7-37b17ccb0c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UG(Regular &amp; Vocational) Admission Notice 2024(Phase-II).'])[1]/following::font[4]</value>
+      <webElementGuid>c44b690f-f529-49d2-8237-da7c476d6b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='U.G Fees Structure (for Regular Course in Constituent Colleges) –...'])[1]/preceding::font[2]</value>
+      <webElementGuid>2ed83e8e-60d4-4c92-bf67-2f9ab9bff1d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='U.G.(Regular) Course Admission Notice – 2024'])[1]/preceding::font[4]</value>
+      <webElementGuid>4fa6bb79-fcc4-45c6-9548-fe7516421681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admission Notice for UG(Vocational) Course Session 2024-2027.']/parent::*</value>
+      <webElementGuid>98fb1852-bf75-4074-90aa-24031678f704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[3]/a/div[2]/font</value>
+      <webElementGuid>e15c4c4e-eef0-4d15-83bc-9a917ecf2dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Admission Notice for UG(Vocational) Course Session 2024-2027.' or . = 'Admission Notice for UG(Vocational) Course Session 2024-2027.')]</value>
+      <webElementGuid>1a9b9621-a955-4565-868b-6010ef10b9df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
